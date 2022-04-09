@@ -1,4 +1,3 @@
-  GNU nano 4.8                      4-print_alphabt.c
 #include <stdio.h>
 /**
 * main - Entry point
