@@ -26,4 +26,3 @@ second_number = result;
 else
 {
 first_number = result / 10;
-
